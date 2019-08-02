@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["MAX_NAME_LEN","Maximum byte length of a `Name` (16)."],["SEED_LEN","Byte length of a `RngTree` seed (32)."]],"struct":[["Name","Name of a child `SecretTree`."],["SecretTree","Seeded structure that can be used to produce secrets and child `SecretTree`s."]]});
